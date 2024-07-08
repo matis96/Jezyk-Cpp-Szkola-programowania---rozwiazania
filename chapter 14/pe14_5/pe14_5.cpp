@@ -1,4 +1,4 @@
-// pe15-5.cpp
+// pe14-5.cpp
 // useemp1.cpp - używa klas hierarchi abst_emp
 
 #include <iostream>
